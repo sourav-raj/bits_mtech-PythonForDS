@@ -1,0 +1,6 @@
+Pravin, 10, 20, 30
+PYP, 11, 20, 33
+Pawar, 10, 34, 23
+PRavin Pawar, 8, 17, 34
+Rishikesh, 10, 20, 30
+Ritika, 10, 20, 30
