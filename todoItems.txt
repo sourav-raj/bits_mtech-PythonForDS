@@ -1,0 +1,13 @@
+class imbalance issue
+age, fnlwgt skewness 
+occupation, relationship : reduce num of category
+
+workclass ; private n without pay/ never worked  n others
+country : us vs others
+fnlwgt can be omitted
+capital keep both or remove both
+
+hyperparameter optimization
+
+decision boundary
+with age and education.num 
